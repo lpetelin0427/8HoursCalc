@@ -1,0 +1,13 @@
+C:\Users\lpetelin\Desktop\8HoursCalculator\8HoursCalculator\bin\Debug\netcoreapp3.1\8HoursCalculator.exe
+C:\Users\lpetelin\Desktop\8HoursCalculator\8HoursCalculator\bin\Debug\netcoreapp3.1\8HoursCalculator.deps.json
+C:\Users\lpetelin\Desktop\8HoursCalculator\8HoursCalculator\bin\Debug\netcoreapp3.1\8HoursCalculator.runtimeconfig.json
+C:\Users\lpetelin\Desktop\8HoursCalculator\8HoursCalculator\bin\Debug\netcoreapp3.1\8HoursCalculator.runtimeconfig.dev.json
+C:\Users\lpetelin\Desktop\8HoursCalculator\8HoursCalculator\bin\Debug\netcoreapp3.1\8HoursCalculator.dll
+C:\Users\lpetelin\Desktop\8HoursCalculator\8HoursCalculator\bin\Debug\netcoreapp3.1\8HoursCalculator.pdb
+C:\Users\lpetelin\Desktop\8HoursCalculator\8HoursCalculator\obj\Debug\netcoreapp3.1\8HoursCalculator.csprojAssemblyReference.cache
+C:\Users\lpetelin\Desktop\8HoursCalculator\8HoursCalculator\obj\Debug\netcoreapp3.1\8HoursCalculator.AssemblyInfoInputs.cache
+C:\Users\lpetelin\Desktop\8HoursCalculator\8HoursCalculator\obj\Debug\netcoreapp3.1\8HoursCalculator.AssemblyInfo.cs
+C:\Users\lpetelin\Desktop\8HoursCalculator\8HoursCalculator\obj\Debug\netcoreapp3.1\8HoursCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lpetelin\Desktop\8HoursCalculator\8HoursCalculator\obj\Debug\netcoreapp3.1\8HoursCalculator.dll
+C:\Users\lpetelin\Desktop\8HoursCalculator\8HoursCalculator\obj\Debug\netcoreapp3.1\8HoursCalculator.pdb
+C:\Users\lpetelin\Desktop\8HoursCalculator\8HoursCalculator\obj\Debug\netcoreapp3.1\8HoursCalculator.genruntimeconfig.cache
